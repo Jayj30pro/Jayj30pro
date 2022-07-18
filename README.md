@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jayj30pro
+- 👋 Hi, I’m Jason
 - 👀 I’m interested in A.I. and Web Design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Arduino projects
