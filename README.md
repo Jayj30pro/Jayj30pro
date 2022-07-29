@@ -2,7 +2,7 @@
 - 👀 I’m interested in A.I. and Web Design
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me jayj3.0pro@gmail.com
+- 📫 How to reach me ...
 
 <!---
 Jayj30pro/Jayj30pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
