@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Ionic and Angular
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jayj3.0pro@gmail.com
 
