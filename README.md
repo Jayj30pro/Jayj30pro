@@ -6,7 +6,13 @@
 - 💞️ I’m looking to collaborate on projects
 
 - 📫 How to reach me jayj3.0pro@gmail.com
----------------------------------
+
+This is just a test
+--------------------
+
+also a test
+-------------
+-------------
 
 <div>
 
