@@ -7,7 +7,7 @@
 - 📫 How to reach me jayj3.0pro@gmail.com
 
 
-<p>
+<div>
   
   
   
@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
+</div>
 
 
 <!---
