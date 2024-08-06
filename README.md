@@ -1,11 +1,12 @@
 <!-- Thanks for inspecting my code! Feel free to reach out and connect with me! -->
 
-- 👋 Hi, I’m Jason Results-driven software developer with experience in full-stack development and a passion for creating efficient and user-friendly applications. Skilled in JavaScript, Python, and Angular
+- 👋 Hi, I’m Jason, a results-driven software developer with extensive experience in full-stack development and a passion for creating efficient, user-friendly applications. I am skilled in JavaScript, Python, and Angular and have a proven track record of delivering high-quality solutions. With a deep understanding of front-end and back-end technologies, I excel in building robust, scalable systems that meet and exceed client expectations. My agile methodologies and collaborative development expertise ensure seamless project execution and innovative problem-solving.
 - 👀 I’m interested in Web Design, AI, Cybersecurity, and Robotics.
 - 🌱 I’m currently learning Micropython
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me jayj3.0pro@gmail.com
 
+- 📫 How to reach me jayj3.0pro@gmail.com
+---------------------------------
 
 <div>
 
