@@ -1,10 +1,20 @@
 <!-- Thanks for inspecting my code! Feel free to reach out and connect with me! -->
 
-- 👋 Hi, I’m Jason
+Hi, I’m Jason
+=============
+
+- 👋 I am a results-driven software developer with extensive experience in full-stack development and a passion for creating efficient, user-friendly applications. I am skilled in JavaScript, Python, and Angular and have a proven track record of delivering high-quality solutions. With a deep understanding of front-end and back-end technologies, I excel in building robust, scalable systems that meet and exceed client expectations. My agile methodologies and collaborative development expertise ensure seamless project execution and innovative problem-solving.
+
 - 👀 I’m interested in Web Design, AI, Cybersecurity, and Robotics.
-- 🌱 I’m currently learning Ionic and Angular
+- 🌱 I’m currently learning Micropython
 - 💞️ I’m looking to collaborate on projects
+
 - 📫 How to reach me jayj3.0pro@gmail.com
+
+
+
+Skills
+-------
 
 
 <div>
@@ -71,8 +81,6 @@
   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-
-  
 
   <p>Hardware</p>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
