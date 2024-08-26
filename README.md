@@ -10,7 +10,7 @@ Hi, I’m Jason
 
 - :school: I’m currently learning Unit Testing and Cybersecurity
 - :star: I’m looking to collaborate on projects
-- 📫 How to reach me jayj3.0pro@gmail.com
+- 📫 How to reach me JayJ3.0pro@gmail.com
 
 
 
