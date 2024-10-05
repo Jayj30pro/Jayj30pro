@@ -3,6 +3,9 @@
 Hi, I’m Jason
 =============
 
+About Me
+--------
+
 - :bulb: I am a results-driven software developer with extensive experience in full-stack development and a passion for creating efficient, user-friendly applications. I am skilled in JavaScript, Python, and Angular and have a proven track record of delivering high-quality solutions. With a deep understanding of front-end and back-end technologies, I excel in building robust, scalable systems that meet and exceed client expectations. My agile methodologies and collaborative development expertise ensure seamless project execution and innovative problem-solving.
 
 - :computer: I'm interested in a variety of cutting-edge technologies and fields. Web Design captivates me with its blend of creativity and functionality, allowing me to create visually appealing and user-friendly interfaces. AI fascinates me with its potential to revolutionize industries and improve everyday life through intelligent systems. Cybersecurity is another area I am passionate about, as it is crucial for protecting data and ensuring the safety and privacy of users in our increasingly digital world. Lastly, Robotics intrigues me with its combination of mechanical engineering and computer science to develop machines that can perform complex tasks, potentially transforming numerous sectors from manufacturing to healthcare.
