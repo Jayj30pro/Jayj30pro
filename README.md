@@ -11,7 +11,7 @@ About Me
 - :computer: I'm interested in a variety of cutting-edge technologies and fields. Web Design captivates me with its blend of creativity and functionality, allowing me to create visually appealing and user-friendly interfaces. AI fascinates me with its potential to revolutionize industries and improve everyday life through intelligent systems. Cybersecurity is another area I am passionate about, as it is crucial for protecting data and ensuring the safety and privacy of users in our increasingly digital world. Lastly, Robotics intrigues me with its combination of mechanical engineering and computer science to develop machines that can perform complex tasks, potentially transforming numerous sectors from manufacturing to healthcare.
 
 
-- :school: I’m currently learning Unit Testing and Cybersecurity
+- :school: I’m currently learning the CC from ISC2
 - :star: I’m looking to collaborate on projects
 - 📫 How to reach me JayJ3.0pro@gmail.com
 
