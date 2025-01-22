@@ -12,7 +12,9 @@ About Me
 
 
 - :school: I’m currently learning large language models.
+  
 - :star: I’m looking to collaborate on projects
+
 - 📫 How to reach me JayJ3.0pro@gmail.com
 
 
