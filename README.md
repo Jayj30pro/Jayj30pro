@@ -1,6 +1,6 @@
 <!-- Thanks for inspecting my code! Feel free to reach out and connect with me! -->
 
-Greetings, I’m Jason
+Greetings, I am Jason
 =============
 
 About Me
