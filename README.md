@@ -15,7 +15,7 @@ About Me
   
 - :star: I’m looking to collaborate on projects
 
-- 📫 How to reach me JayJ3.0pro@gmail.com
+- 📫 How to reach me Jason@jasonzjacobs.com
 
 
 
