@@ -6,9 +6,9 @@ Greetings, I am Jason
 About Me
 --------
 
-- :bulb: I am a results-driven software developer with extensive experience in full-stack development and a passion for creating efficient, user-friendly applications. I am skilled in JavaScript, Python, and Angular and have a proven track record of delivering high-quality solutions. With a deep understanding of front-end and back-end technologies, I excel in building robust, scalable systems that meet and exceed client expectations. My agile methodologies and collaborative development expertise ensure seamless project execution and innovative problem-solving.
+- :bulb:I am a results-driven software developer with a passion for building efficient, user-friendly applications and scalable systems. My expertise spans full-stack development, specializing in JavaScript, Python, and Angular, with hands-on experience in back-end technologies like Java Spring Boot and MySQL.
 
-- :computer: I'm interested in various cutting-edge technologies and fields. Web Design captivates me with its blend of creativity and functionality, allowing me to create visually appealing and user-friendly interfaces. AI fascinates me with its potential to revolutionize industries and improve everyday life through intelligent systems. Cybersecurity is another area I am passionate about, as it is crucial for protecting data and ensuring the safety and privacy of users in our increasingly digital world. Lastly, Robotics intrigues me with its combination of mechanical engineering and computer science to develop machines that can perform complex tasks, potentially transforming numerous sectors from manufacturing to healthcare.
+- :computer: I thrive in agile environments, leveraging collaborative development and problem-solving skills to deliver high-quality solutions that exceed client expectations. Whether it’s crafting robust APIs, optimizing database performance, or enhancing front-end experiences, I am always pushing the limits of technology to create impactful software.
 
 
 - :school: I’m currently learning large language models.
