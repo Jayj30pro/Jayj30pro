@@ -11,7 +11,7 @@ About Me
 - :computer: I thrive in agile environments, leveraging collaborative development and problem-solving skills to deliver high-quality solutions that exceed client expectations. Whether it’s crafting robust APIs, optimizing database performance, or enhancing front-end experiences, I am always pushing the limits of technology to create impactful software.
 
 
-- :school: I’m currently learning large language models.
+- :school: I’m currently learning Unity.
   
 - :star: I’m looking to collaborate on projects
 
