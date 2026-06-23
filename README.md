@@ -28,7 +28,7 @@ Skills
   <p>Artificial Intelligence and Bots</p>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src=""/>
+  <!--<img src=""/>-->
 
   <p>Languages</p>
   
